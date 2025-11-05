@@ -9,12 +9,13 @@ It combines Django’s backend framework, Bootstrap styling, and PostgreSQL to d
        muted
        playsinline
        width="720">
+</video>
 ---
 
 ## 🎬 Demo Preview
 
 
-</video>
+
 ## ⚙️ Tech Stack
 
 | Layer | Technology |
