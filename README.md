@@ -4,6 +4,7 @@ ClientSphere is a full-stack Django web application for managing client records 
 It combines Django’s backend framework, Bootstrap styling, and PostgreSQL to deliver a responsive, secure, and extendable platform.  
 
 ---
+https://github.com/EliMeed/_ClientSphere/assets/demo.webm
 
 ## ⚙️ Tech Stack
 
