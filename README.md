@@ -5,16 +5,7 @@ It combines Django’s backend framework, Bootstrap styling, and PostgreSQL to d
 
 
 ## 🎬 Demo Preview
-
-<div align="center">
-  <video src="https://github.com/EliMeed/_ClientSphere/blob/main/demo.webm?raw=true"
-         autoplay
-         loop
-         muted
-         playsinline
-         width="720">
-  </video>
-</div>
+https://github.com/user-attachments/assets/b01807f4-d6fc-4c7f-a4cb-2b833c4f412d
 
 
 
