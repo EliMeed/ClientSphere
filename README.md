@@ -14,7 +14,6 @@ It combines Django’s backend framework, Bootstrap styling, and PostgreSQL to d
        playsinline
        width="720">
 </video>
----
 ## ⚙️ Tech Stack
 
 | Layer | Technology |
