@@ -5,6 +5,9 @@ It combines Django’s backend framework, Bootstrap styling, and PostgreSQL to d
 
 
 ## 🎬 Demo Preview
+![ClientSphere Demo](https://github.com/user-attachments/assets/3024d2c3-7775-40cf-bdd9-e81bec1519dc)
+
+Full video version:
 https://github.com/user-attachments/assets/b01807f4-d6fc-4c7f-a4cb-2b833c4f412d
 
 
