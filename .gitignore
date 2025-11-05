@@ -1,0 +1,19 @@
+# Python cache / compiled
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Local DBs / logs
+*.sqlite3
+*.log
+
+# Environment / secrets
+.env
+
+# OS / IDE junk
+.DS_Store
+.vscode/
+.idea/
